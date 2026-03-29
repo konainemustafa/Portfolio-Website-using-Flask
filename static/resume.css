@@ -1,4 +1,4 @@
-/* ── Resume Page ── */
+
 .resume-page {
     margin-top: 90px;
     padding: 3rem 2rem;
@@ -7,7 +7,7 @@
     margin-right: auto;
 }
 
-/* ── Title Row ── */
+
 .resume-title-row {
     display: flex;
     align-items: center;
